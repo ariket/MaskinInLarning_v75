@@ -1,0 +1,87 @@
+racenum,startnum,horsename,driver,trainer,playpercent,moneywin,resrace1,pricesumrace1,resrace2,pricesumrace2,resrace3,pricesumrace3,resrace4,pricesumrace4,resrace5,pricesumrace5,winnernum,driver_id,trainer_id
+1,1,Frodo Cash,Thomas Uhrberg,Steen Juul,6,1480305,1,30,1,30,3,30,4,30,4,30,99,0,0
+1,2,Winner Brodde,Johan Untersteiner,Johan Untersteiner,28,963000,3,60.0,2,220.0,3,110.0,1,110.0,1,100.0,99,1,1
+1,3,Dominic Wibb,Dante Kolgjini,Adrian Kolgjini,15,1501112,1,125.0,2,250.0,1,125.0,6,125.0,2,125.0,99,2,2
+1,4,Innovation Love,Robert Bergh,Robert Bergh,3,1457449,7,125.0,7,125.0,7,125.0,1,60.0,6,125.0,99,3,3
+1,5,Special Major,Magnus A Djuse,Mika Haapakangas,3,1492218,6,60.0,3,250.0,4,25.0,7,60.0,4,50.0,99,4,4
+1,6,Major Ass,Rick Ebbinge,Rick Ebbinge,12,1612566,2,250.0,7,125.0,1,125.0,8,125.0,5,30,99,5,5
+1,7,Randemar R.D.,Sofie Ericsson,Madeleine Nordström,4,1579650,1,125.0,3,150.0,3,60.0,2,30.0,6,50.0,99,6,6
+1,8,Eireann,Stefan Persson,Preben Sövik,2,1507750,4,40.0,6,100.0,9,30,9,200.0,9,100.0,99,7,7
+1,9,Triton,Mats Gunnarsson,Mats Gunnarsson,18,1027400,1,40.0,9,220.0,1,30.0,1,110.0,1,40.0,99,8,8
+1,10,Red Mile Brodde,Victor Rosleff,Ola Karlsson,3,1500766,9,250.0,2,125.0,3,30.0,2,75.0,2,60.0,99,9,9
+1,11,Game Brodde,Peter Untersteiner,Johan Untersteiner,5,1304000,6,125.0,1,125.0,9,125.0,8,125.0,5,100.0,99,10,1
+2,1,Let Me In,Per Nordström,Per Nordström,14,285800,9,60.0,4,50.0,9,100.0,1,125.0,1,40.0,99,11,10
+2,2,Rustico,Thomas Uhrberg,Thomas Uhrberg,9,273500,3,110.0,6,110.0,3,110.0,3,110.0,1,35.0,99,0,11
+2,3,Hellacopters,Johan Untersteiner,Johan Lejon,2,204500,7,25.0,5,35.0,3,40.0,6,40.0,4,25.0,99,1,12
+2,4,Gabriel Avenue,Christian Cracchiolo,Maria T Karlsson,3,272900,9,25.0,3,60.0,2,30.0,2,35.0,3,25.0,99,12,13
+2,5,Vikens Cashflow,André Eklundh,Mikael Fellbrandt,3,220900,3,25.0,3,110.0,4,35.0,7,100.0,2,40.0,99,13,14
+2,6,Börtas Ankare,Saga Laursen,Mimmi Elfstrand,14,255352,9,60.0,7,540.0,1,50.0,1,60.0,3,80.0,99,14,15
+2,7,Come Along,Max Karlsson,Kim Hagström,1,564000,4,40.0,9,40.0,9,40.0,1,35.0,7,40.0,99,15,16
+2,8,Hero Band,Magnus A Djuse,Thomas Jonsson,1,570900,5,25.0,7,40.0,5,25.0,9,10.0,2,30.0,99,4,17
+2,9,Hamilton Atout,Kevin Oscarsson,Hanna Lähdekorpi,4,507783,4,35.0,3,40.0,9,60.0,9,30.0,1,35.0,99,16,18
+2,10,Cassius Clay D.E.,Stefan Persson,Linda Persson,38,564885,1,110.0,2,110.0,1,100.0,1,30.0,4,50.0,99,7,19
+2,11,Papa Crowe,Anders Schillström,Anders Schillström,1,471200,9,30.0,1,25.0,4,40.0,9,35.0,9,40.0,99,17,20
+2,12,Don't Disturb,Victor Rosleff,Anita Bakkegård Hansen,2,433354,4,60.0,2,35.0,5,30,4,40.0,2,30,99,9,21
+2,13,Steady Victory,Gustav Johansson,Hanna Lähdekorpi,3,435401,4,30.0,4,40.0,1,35.0,4,50.0,5,35.0,99,18,18
+2,14,Bugatti Veyron,Carl Johan Jepson,Thomas Jonsson,4,500300,3,25.0,1,40.0,9,35.0,9,100.0,2,40.0,99,19,17
+2,15,Remburs R.D.,Svend Dyhrberg,Svend Dyhrberg,3,448035,2,30.0,6,60.0,2,40.0,3,40.0,5,40.0,99,20,22
+3,1,Heart of Steel,Peter Untersteiner,Johan Untersteiner,4,4423012,6,150.0,7,150.0,2,150.0,9,200.0,3,150.0,99,10,1
+3,2,Festival of Speed,Thomas Uhrberg,Steen Juul,5,2818122,2,30,9,40.0,1,30,3,75.0,1,30,99,0,0
+3,3,Sweetman,Magnus A Djuse,Lars I Nilsson,35,2286900,1,60.0,7,150.0,2,150.0,1,40.0,5,150.0,99,4,23
+3,4,Staro Leonardo,Joakim Lövgren,Joakim Lövgren,3,2699708,3,60.0,3,150.0,4,40.0,9,200.0,3,35.0,99,21,24
+3,5,Edibear,Stefan Persson,Linda Persson,16,2454900,1,150.0,5,150.0,5,40.0,9,150.0,9,250.0,99,7,19
+3,6,Four Guys Dream,André Eklundh,Håkan K Persson,23,2664613,5,250.0,9,150.0,5,200.0,1,150.0,1,30,99,13,25
+3,7,Digital Dominance,Ken Ecce,Tomas Malmqvist,1,1926094,2,60.0,9,300.0,7,200.0,4,150.0,9,30,99,22,26
+3,8,Osterc,Torbjörn Simberg,Torbjörn Simberg,3,4824623,9,150.0,8,150.0,3,150.0,4,200.0,3,30.0,99,23,27
+3,9,Chapuy,Carl Philip Lindblom,Åke Lindblom,3,3310957,6,150.0,1,40.0,8,150.0,6,150.0,7,150.0,99,24,28
+3,10,Ultion Face,Adrian Kolgjini,Adrian Kolgjini,7,2986879,9,300.0,3,200.0,2,150.0,9,400.0,2,100.0,99,25,2
+4,1,Bonnie Wibb,Magnus A Djuse,Fredrik Wallin,7,310550,5,110.0,4,40.0,2,110.0,5,30.0,3,30.0,99,4,29
+4,2,Lucia di Quattro,Mathias Alm,Louise Frumerie,1,333900,4,30.0,2,30.0,5,35.0,4,30.0,6,60.0,99,26,30
+4,3,Kovi Stream,André Eklundh,Rick Ebbinge,9,299062,5,60.0,2,40.0,1,30.0,3,40.0,5,35.0,99,13,5
+4,4,M.T.Tomorrows Hope,Thomas Uhrberg,Anders Svanstedt,14,324000,1,110.0,9,110.0,1,30.0,9,50.0,4,50.0,99,0,31
+4,5,Elva Rapid,Victor Rosleff,Anders Svanstedt,2,324800,9,110.0,3,30.0,9,35.0,1,40.0,9,40.0,99,9,31
+4,6,Take Me Sober,Robert Bergh,Emma Bjerkås,4,276500,5,60.0,7,40.0,9,30,9,30,2,40.0,99,3,32
+4,7,Xia Lloyd,Adrian Kolgjini,Adrian Kolgjini,24,310000,1,50.0,2,110.0,1,40.0,2,30.0,9,150.0,99,25,2
+4,8,High Hope Lee,Stefan Persson,Lars I Nilsson,4,309500,4,30.0,9,40.0,8,110.0,1,35.0,1,40.0,99,7,23
+4,9,Momimhome,Iivari Nurminen,Anssi Nurminen,1,212362,9,30.0,4,30.0,5,40.0,9,40.0,2,30.0,99,27,33
+4,10,Cypress Point,Ken Ecce,Tomas Malmqvist,10,339400,4,110.0,1,30.0,9,40.0,1,60.0,6,300.0,99,22,26
+4,11,Random Tile,Gustav Johansson,Lars I Nilsson,2,228839,7,60.0,9,40.0,9,100.0,1,25.0,2,40.0,99,18,23
+4,12,Eva Kant Gar,Jennifer L Oscarsson,Magnus Dahlén,3,324500,7,110.0,3,40.0,2,60.0,1,100.0,9,40.0,99,28,34
+4,13,LaFerrari Dimanche,Rick Ebbinge,Rick Ebbinge,14,817500,2,60.0,2,110.0,1,60.0,4,30.0,9,10.0,99,5,5
+4,14,Capiroska Font,Carl Johan Jepson,Björn Goop,4,778551,9,30,2,30,2,30,1,30,9,30,99,19,35
+5,1,Mister Twister,Wilma Karlsson,Jerry Riordan,3,141400,4,60.0,2,25.0,3,40.0,1,40.0,4,40.0,99,29,36
+5,2,Balder Face,Linda Sedström,Sofia Aronsson,6,195900,9,25.0,2,25.0,1,40.0,2,30.0,1,10.0,99,30,37
+5,3,Knock Boots Mearas,Svend Dyhrberg,Tony Jönsson,10,246000,1,110.0,2,25.0,2,30.0,3,50.0,3,40.0,99,20,38
+5,4,Careful Dream,Gustav Johansson,Ulrika Vikström,4,227500,4,35.0,6,110.0,1,40.0,1,30.0,9,30.0,99,18,39
+5,5,Patricia Bo,Ken Ecce,Ken Ecce,7,233198,9,110.0,4,110.0,1,50.0,3,30.0,1,30.0,99,22,40
+5,6,Kipketer Mearas,Magnus A Djuse,Ulf Stenströmer,21,245000,1,60.0,2,50.0,4,60.0,1,40.0,1,30.0,99,4,41
+5,7,Cardin,Carl Johan Jepson,Jonas Gylling,7,210500,1,60.0,9,30.0,3,30.0,1,10.0,9,25.0,99,19,42
+5,8,Caton,Thomas Linder,Ronny Jönsson,14,221700,1,30.0,1,35.0,2,35.0,1,30.0,3,35.0,99,31,43
+5,9,Vancouver High,Stefan Persson,Lars I Nilsson,17,174400,2,60.0,9,110.0,9,110.0,2,60.0,1,40.0,99,7,23
+5,10,Kaviaren,Thomas Uhrberg,Håkan K Persson,4,182000,2,30.0,4,35.0,6,60.0,1,30.0,1,30.0,99,0,25
+5,11,Pontiac,Christina Tilp,Christina Tilp,4,245894,1,30,3,30,8,110.0,2,35.0,1,30,99,32,44
+5,12,Qillerbee,Joakim Lövgren,Joakim Lövgren,4,242800,3,35.0,2,30.0,1,40.0,9,110.0,1,25.0,99,21,24
+6,1,Frankie Godiva,Markus Waldmüller,Conrad Lugauer,15,809500,1,35.0,1,40.0,6,110.0,3,110.0,1,30.0,99,33,45
+6,2,Luca Vialli Boko,Magnus A Djuse,Ulf Stenströmer,5,764800,1,60.0,9,100.0,9,100.0,1,30.0,2,75.0,99,4,41
+6,3,Mellby Indigo,Robert Bergh,Robert Bergh,4,788500,8,250.0,3,40.0,4,150.0,9,540.0,2,60.0,99,3,3
+6,4,So Far Away Ås,André Eklundh,Hanna Lähdekorpi,2,840100,2,60.0,9,60.0,5,30.0,6,40.0,3,30.0,99,13,18
+6,5,Here's Johnny Sox,Adrian Kolgjini,Lars I Nilsson,19,691544,9,60.0,9,110.0,1,220.0,1,110.0,2,110.0,99,25,23
+6,6,That's it,Claes Svensson,Claes Svensson,11,705800,1,25.0,3,40.0,1,60.0,4,100.0,1,50.0,99,34,46
+6,7,Tyson Dimanche,Giuseppe Lubrano,Magnus Dahlén,2,820900,1,10.0,9,30.0,9,40.0,3,10.0,2,10.0,99,35,34
+6,8,Lucifer Boko,Carl Johan Jepson,Jerry Riordan,4,888406,1,40.0,6,110.0,4,110.0,4,30,3,110.0,99,19,36
+6,9,Judge D.,Stefan Persson,Ola Samuelsson,14,707000,3,110.0,1,100.0,1,40.0,3,40.0,3,200.0,99,7,47
+6,10,Black Fire,Gustav Johansson,Gustav Johansson,5,751401,3,60.0,2,110.0,2,100.0,1,40.0,2,40.0,99,18,48
+6,11,Beachcomber,Joakim Lövgren,Joakim Lövgren,5,644873,1,40.0,7,60.0,2,60.0,1,30.0,2,25.0,99,21,24
+6,12,Moses Boko,Rick Ebbinge,Rick Ebbinge,14,729237,3,220.0,1,60.0,1,60.0,2,110.0,7,60.0,99,5,5
+7,1,Utah Southwind,Magnus A Djuse,Ulf Stenströmer,21,499697,3,110.0,1,110.0,1,100.0,5,100.0,7,30,99,4,41
+7,2,Gasparito,Mikko Aho,Mikko Aho,3,430585,5,110.0,1,40.0,6,110.0,3,110.0,2,60.0,99,36,49
+7,3,Brain Game,Stefan Persson,Magnus R Johansson,3,369400,1,60.0,9,100.0,9,50.0,5,100.0,1,60.0,99,7,50
+7,4,Big Best Helvin,André Eklundh,Jerry Riordan,5,325141,1,25.0,1,60.0,2,30.0,1,30.0,2,10.0,99,13,36
+7,5,Maserati Hall,Carl Johan Jepson,Fredrik Wallin,15,421500,2,100.0,2,300.0,3,150.0,2,60.0,1,40.0,99,19,29
+7,6,Shejk,Adrian Kolgjini,Adrian Kolgjini,13,476400,1,60.0,9,110.0,1,40.0,2,30.0,4,40.0,99,25,2
+7,7,Call Me Gleipner,Johan Untersteiner,Johan Untersteiner,10,308000,3,300.0,1,40.0,3,40.0,1,40.0,9,150.0,99,1,1
+7,8,Fabror Melker,Max Karlsson,Magnus Pettersson,4,482500,2,110.0,2,100.0,1,40.0,3,50.0,6,30.0,99,15,51
+7,9,Con Padre,Gustav Johansson,Hanna Lähdekorpi,4,398100,1,30.0,3,60.0,1,60.0,3,60.0,4,30.0,99,18,18
+7,10,No Talking You,Peter Untersteiner,Johan Untersteiner,13,398360,4,110.0,1,60.0,1,100.0,1,50.0,2,40.0,99,10,1
+7,11,Sabani,Jennifer L Oscarsson,Magnus Dahlén,4,305800,2,30.0,1,110.0,1,35.0,1,30.0,9,30.0,99,28,34
+7,12,Global Difference,Joakim Lövgren,Joakim Lövgren,5,449000,5,220.0,4,110.0,1,50.0,1,50.0,2,35.0,99,21,24
