@@ -5,10 +5,9 @@ from selenium.webdriver.common.by import By
 
 from bs4 import BeautifulSoup   #Beautiful Soup is a Python library for pulling data out of HTML and XML files.
                                 #Web Scraping with Beautiful Soup.
-#from selenium.webdriver.support.relative_locator import locate_with
+
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
 import time
 import csv
 from tkinter import ttk
@@ -40,8 +39,8 @@ loppV86 = [] #Fyll datum som du vill skrapa
 
 avdelningar = ["avd/1","avd/2","avd/3","avd/4","avd/5","avd/6","avd/7"] #Lägg till "avd8" när skrapning sker på v86
 loppV75Kommande = ["2024-03-02/V75/halmstad/"] #Fyll datum som du vill skrapa
-loppV86Kommande = []
-loppV64Kommande = []
+loppV86Kommande = [] #Fyll datum som du vill skrapa
+loppV64Kommande = [] #Fyll datum som du vill skrapa
 
 newData = False
 
@@ -75,7 +74,7 @@ def ScrapeAtgData(url):
         i +=1
         x +=500   
 
-    htmlRaw = BeautifulSoup(driver.page_source,'html.parser') #Load whole webpage to htmlRaw
+    htmlRaw = BeautifulSoup(driver.page_source,'html.parser')            #Load whole webpage to htmlRaw
     with open('./data/temp.csv' ,"w", newline='',encoding="utf8") as D2: #Save all data to a file
         out = csv.writer(D2)
         out.writerow(htmlRaw)
@@ -88,7 +87,7 @@ def ScrapeAtgData(url):
 def ScrapeSorting(WinnerHorse, raceNumberU):
     row=0 ;
     dontSave = False
-    list = [] #Holds all relevant data, unsorted, 
+    list = [] #Holds all relevant data, unsorted.
 
     with open('./data/temp.csv','r',encoding="utf8") as file:
         for line in file:
